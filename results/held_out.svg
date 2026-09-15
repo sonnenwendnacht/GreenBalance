@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="390" viewBox="0 0 1100 390" role="img" aria-labelledby="title desc">
+<title id="title">GreenBalance: held-out synthetic scheduling costs</title>
+<desc id="desc">Bars show means across 5 shared workloads of 1000 jobs. Dots show individual workload results. All metrics are synthetic proxies; lower is better.</desc>
+<rect width="1100" height="390" fill="#fff"/>
+<g font-family="system-ui, sans-serif" fill="#182430">
+<text x="24" y="32" font-size="22" font-weight="600">GreenBalance: held-out synthetic scheduling</text>
+<text x="24" y="58" font-size="14">5 shared workloads × 1,000 jobs · bars = means · dots = individual workloads · lower is better</text>
+<text x="24" y="130" font-size="14">Q-learning</text>
+<text x="24" y="178" font-size="14">Round robin</text>
+<text x="24" y="226" font-size="14">Random</text>
+<text x="24" y="274" font-size="14">Shortest completion</text>
+<text x="215" y="94" font-size="14" font-weight="600">Queue-work sum</text>
+<rect x="215" y="117" width="127.91" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="336.13" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="369.47" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="326.72" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="342.04" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="340.17" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<text x="215" y="153" font-size="11" fill="#425b6c">mean 280,863.4</text>
+<rect x="215" y="165" width="179.02" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="384.38" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="400.55" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="388.85" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="404.70" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="391.61" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<text x="215" y="201" font-size="11" fill="#425b6c">mean 393,104.0</text>
+<rect x="215" y="213" width="189.22" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="376.74" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="417.28" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="388.64" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="437.22" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="401.22" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<text x="215" y="249" font-size="11" fill="#425b6c">mean 415,503.8</text>
+<rect x="215" y="261" width="102.08" height="22" rx="2" fill="#176b87"/>
+<circle cx="304.55" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="329.45" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="315.05" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="324.73" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="311.61" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<text x="215" y="297" font-size="11" fill="#425b6c">mean 224,148.4</text>
+<line x1="215" y1="314" x2="455" y2="314" stroke="#8c9ba5"/>
+<text x="215" y="330" font-size="11">0</text>
+<text x="455" y="330" text-anchor="end" font-size="11">527,010</text>
+<text x="505" y="94" font-size="14" font-weight="600">Assignment-energy proxy</text>
+<rect x="505" y="117" width="206.34" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="710.77" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="714.29" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="707.89" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="709.74" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="714.03" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<text x="505" y="153" font-size="11" fill="#425b6c">mean 1,611.5</text>
+<rect x="505" y="165" width="192.13" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="697.13" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="697.13" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="697.13" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="697.13" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="697.13" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<text x="505" y="201" font-size="11" fill="#425b6c">mean 1,500.5</text>
+<rect x="505" y="213" width="191.99" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="697.39" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="697.39" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="700.46" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="695.02" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="694.70" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<text x="505" y="249" font-size="11" fill="#425b6c">mean 1,499.4</text>
+<rect x="505" y="261" width="221.45" height="22" rx="2" fill="#176b87"/>
+<circle cx="726.65" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="725.49" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="726.65" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="727.22" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="726.26" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<text x="505" y="297" font-size="11" fill="#425b6c">mean 1,729.5</text>
+<line x1="505" y1="314" x2="745" y2="314" stroke="#8c9ba5"/>
+<text x="505" y="330" font-size="11">0</text>
+<text x="745" y="330" text-anchor="end" font-size="11">1,874</text>
+<text x="795" y="94" font-size="14" font-weight="600">Composite cost</text>
+<rect x="795" y="117" width="128.59" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="916.85" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="950.01" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="907.48" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="922.72" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="920.90" cy="128" r="3" fill="#243e50" opacity="0.8"/>
+<text x="795" y="153" font-size="11" fill="#425b6c">mean 284,086.4</text>
+<rect x="795" y="165" width="179.30" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="964.72" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="980.78" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="969.16" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="984.91" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="971.90" cy="176" r="3" fill="#243e50" opacity="0.8"/>
+<text x="795" y="201" font-size="11" fill="#425b6c">mean 396,105.0</text>
+<rect x="795" y="213" width="189.43" height="22" rx="2" fill="#bac9d2"/>
+<circle cx="957.12" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="997.42" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="968.97" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="1017.22" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="981.44" cy="224" r="3" fill="#243e50" opacity="0.8"/>
+<text x="795" y="249" font-size="11" fill="#425b6c">mean 418,502.6</text>
+<rect x="795" y="261" width="103.03" height="22" rx="2" fill="#176b87"/>
+<circle cx="885.58" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="910.32" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="896.01" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="905.64" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<circle cx="892.59" cy="272" r="3" fill="#243e50" opacity="0.8"/>
+<text x="795" y="297" font-size="11" fill="#425b6c">mean 227,607.4</text>
+<line x1="795" y1="314" x2="1035" y2="314" stroke="#8c9ba5"/>
+<text x="795" y="330" font-size="11">0</text>
+<text x="1035" y="330" text-anchor="end" font-size="11">530,215</text>
+<text x="24" y="365" font-size="12">Composite cost = queue-work sum + 2 × assignment-energy proxy. No physical energy or latency units.</text>
+</g></svg>
